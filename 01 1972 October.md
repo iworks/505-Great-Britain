@@ -364,16 +364,14 @@ front after our domination of the last three years.
 | 3 | L 4335 | Kari Wilen | 59.7 |
 | 4 | K 4382 | Derek Farrant | 64.0 |
 | 5 | K 4450 | John Loveday | 66.0 |
-| 6 | S 3991 | Ulf Andersson | 72.7 |
-
-7 S 3956 Bennett Thorner 8 S 4316
-
-70.4 
-
-
-Stefan Sjostrom 76.7 9 F 3596 Patrick Haegeli 77.4 90.0 10 K 4321 Robert
-Napier Other British placings: 15, K 4083 John Turgoose, 113.7; 16, K 4079
-Hugh Bourn, 116.0.
+| 6 | S 3991 | Ulf Andersson | 70.4 |
+| 7 | S 3956 | Bennett Thorner | 72.7 |
+| 8 | S 4316 | Stefan Sjostrom | 76.7 |
+| 9 | F 3596 | Patrick Haegeli | 77.4 |
+| 10 | K 4321 | Robert Napier | 90.0 |
+|...|
+| 15 | K 4083 | John Turgoose | 113.7 |
+| 16 | K 4079 | Hugh Bourn | 116.0 |
 
 ---
 
@@ -409,537 +407,598 @@ year.
 
 Plans are being made for the week's social programme, which will most
 certainly be an outstanding success. In addition to evenings centred on Largs,
-it is hoped to charter a steamer for an evening cruise
+it is hoped to charter a steamer for an evening cruise around Bute,
+a beautiful trip in a boat with a bar! To round off the week in a positive way
+it is planned that the prize giving will be in the form of a dinner dance at
+a local hotel. This may be an innovation for the 505 fleet but surely long
+overdue for a leading dinghy class?
 
+---
 
+# To perch or not?
 
-around Bute, a beautiful trip in a boat with a bar! To round off the week
-in a positive way it is planned that the prize giving will be in the form
-of a dinner dance at a local hotel. This may be an innovation for the 505
-fleet but surely long overdue for a leading dinghy class?
+**By Mike Enderby**
 
-3
---- page 6 ---
 PARROT perches or White sticks? We seem undecided as yet which title to
 give to the struts which have recently sprouted from the front of 505
-masts just below the hounds. They are, however, appearing in ever in-
+masts just below the hounds. They are, however, appearing in ever increasing
+numbers in the class and were there for all to see at the national
+championships at Highcliffe this year.
 
-Fig. 1: Parrot perch fitted to Pete White's Paranoid. Note that the jib
-luff wire and halyard to the job sheave are in a straight line within the
-rules and that the top tallarut is resting neatly against the underside of
-the perch.
+> Fig. 1: Parrot perch fitted to Pete White's Paranoid. Note that the jib luff
+> wire and halyard to the job sheave are in a straight line within the rules
+> and that the top tallarut is resting neatly against the underside of the
+> perch.
 
-Fig. 2: An interesting variation devised by Terry Lawton incorporating a
-moveable sheave.
+> Fig. 2: An interesting variation devised by Terry Lawton incorporating
+> a moveable sheave.
 
-Fig. 3: 'The original' infringement, courtesy of the GPO. 4
+> Fig. 3: 'The original' infringement, courtesy of the GPO.
 
-# By Mike Enderby
-
-creasing numbers in the class and were there for all to see at the
-national championships at Highcliffe this year.
 
 ## CAUSE
 
 Since the adoption of the spinnake chute most jibs are now cut with far
-shorter luffs which in turn has left us with about 18 in. of halyard
-between the head of the jib and mast sheave. The perch supports this and
-prevents the head of the jib from sagging off to leeward, the head of the
-jib now being quite visible to the helmsman which proves how far it was
-falling off before. By maintaining the luff in a straight line one can
-appreciate the theoretical improvement to the sail plan underway.
-Furthermore, the additional support of the perch reduces the fore and aft
-bend of the mast aloft maintaining the fullness of the mainsail towards
-the top, and may on some sails tighten up the leech. As to whether there
-is a significant increase in performance across the water has yet to be
-proven, but undoubtedly the psychological advantage when the perch is
-first fitted could be considerable. But beware, those old prechute jibs
-may now be obsolete! FIG.4 sheave perch pivot
+shorter luffs which in turn has left us with about 18 in. of halyard between
+the head of the jib and mast sheave. The perch supports this and prevents the
+head of the jib from sagging off to leeward, the head of the jib now being
+quite visible to the helmsman which proves how far it was falling off before.
+By maintaining the luff in a straight line one can appreciate the theoretical
+improvement to the sail plan underway.  Furthermore, the additional support of
+the perch reduces the fore and aft bend of the mast aloft maintaining the
+fullness of the mainsail towards the top, and may on some sails tighten up the
+leech.
+
+As to whether there is a significant increase in performance across the water
+has yet to be proven, but undoubtedly the psychological advantage when the
+perch is first fitted could be considerable. But beware, those old prechute
+jibs may now be obsolete!
+
+## ARE TH EV LEGAL?
+
+In view of the current wording of the measurement rules the International
+Measurement Committee will be issuing a directive after their meeting at the
+world championships in Helsinki in August regarding the perch.  Unofficially
+we understand that because the use of the perch in practice can infringe the
+rules the majority decision will possibly state that the perch should be
+deemed illegal to prevent further abuse of the rules.
+
+Firstly, one can understand that with the mast under load the prolungation of
+the jib luff to the fore side of the mast would almost certainly cut the mast
+outside the permitted tolerances, for the jib block, sheave or fairlead.
+Furthermore to measure this in practice would be extremely difficult.
+
+Secondly, the point at which the jib halyard passes through the end of the
+perch could be construed as a fairlead, and the rule states that 'the block
+sheave or fairlea of the jib halyard shall be attached to the mast not higher
+than 15 ft. 7 in. and not lower than 1 5 ft. 3 in.  above the deck' - official
+rules Section 3 Spars and Sails part 1 para. 6.
 
 ## THE POLE
 
-SUDDENLY in 1972 a number of new arrangements for spinnaker poles and
-their setting have emerged on the 505 scene in the UK. The most
-noticeable, among the tangle of uphauls, downhauls and winches, is the
-practice of boom hung storage of spinnaker poles. The idea is not new, but
-a number of interesting variations devised by our own 505 wizards could be
-seen around at open events this season. Generally 505's seem to have been
-late developers in this field. Apparently we have been left in a daze
-after the mass class conversion to spinnaker chutes, remembering
+SUDDENLY in 1972 a number of new arrangements for spinnaker poles and their
+setting have emerged on the 505 scene in the UK. The most noticeable, among
+the tangle of uphauls, downhauls and winches, is the practice of boom hung
+storage of spinnaker poles. The idea is not new, but a number of interesting
+variations devised by our own 505 wizards could be seen around at open events
+this season.
 
-## ARE TH EV LEGAL ?
+Generally 505's seem to have been late developers in this field. Apparently we
+have been left in a daze after the mass class conversion to spinnaker chutes,
+remembering only the hazards encountered before, and leaving further
+experiment in spinnaker handling to newer blood joining the class.
 
-In view of the current wording of the measurement rules the International
-Measurement Committee will be issuing a directive after their meeting at
-the world championships in Helsinki in August regarding the perch.
-Unofficially we understand that because the use of the perch in practice
-can infringe the rules the majority decision will possibly state that the
-perch should be deemed illegal to prevent further abuse of the rules.
-Firstly, one can understand that with the mast under load the prolungation
-of the jib luff to the fore side of the mast would almost certainly cut
-the mast outside the permitted tolerances, for the jib block, sheave or
-fairlead. Furthermore to measure this in practice would be extremely
-difficult. Secondly, the point at which the jib halyard passes through the
-end of the perch could be construed as a fairlead, and the rule states
-that 'the block sheave or fairlea of the jib halyard shall be attached to
-the mast not higher than 15 ft. 7 in. and not lower than 1 5 ft. 3 in.
-above the deck' - official rules Section 3 Spars and Sails part 1 para. 6.
-FIG. 5
-
-only the hazards encountered before, and leaving further experiment in
-spinnaker handling to newer blood joining the class. There are many
-versions, and no doubt many sails have yet to be torpedoed by poles
-attached to over strong self parking shockcord ! However, those who do
+There are many versions, and no doubt many sails have yet to be torpedoed by
+poles attached to over strong self parking shockcord ! However, those who do
 risk it claim that once set up correctly, it works more quickly and
-efficiently. One can well appreciate that time saved in setting the
-spinnaker must directly benefit boat speed, which can be invaluable in
-close racing and particularly when rounding marks. Apart from this, the
-stowage of the pole or poles alongside the boom and away from the bottom
-of the boat provides a much clearer working area.
---- page 7 ---
-When considering the usual stages of This method certainly cuts down the
-stages setting a pole, it is easy to see that the simplest of setting a
-pole at the expense of having saving in time can be effected by having the
-formidable equipment, and it still requires pole permanently attached to
-its up and down hauls. and in turn storing the pole or poles along the
-side of the main boom by means of large loops. One would merely attach to
-FIG.1 guy and mast at each end in the usual way. Fig. 1 shows the simplest
-method as used on Chris Hornsey's 'Up Pompey'. Here the slack and
-adjustment necessary to ship the pole easily along the main boom when not
-in use is catered for by an adjustable uphaul and downhaul. The uphaul has
-to be well eased off to avoid fouling the main when the pole is stored
-going to windward. But both v· the up and downhaul have to be suitably v•
-adjusted as the pole is set in position. Fig. 2 shows our second version.
-using a refined pole fitting along a spinnaker boom of parallel
-dimensions, with a large sliding ring attached to uphaul and downhaul
-incorporating a slot or 'key-hole' for gybing. When not in use the pole
-rests along the boom as in version 1, but the ring on the FIG. 2 up and
-downhaul slides along the pole to its 'parked' position at the end just in
-front of the mast as in Fig. 3. The slack in the downhaul is taken up by
-pulley and shockcord and to facilitate pole height adjustment a moveable
-pping lift or uphaul is fitted. When gybing, the pole is twisted sideways
-allowing a Nylon buffer or stop to pass through the key-hole or slot in
-the ring and rest against its other side as the pole is pushed out on the
-opposite gybe. With both the above systems it is important although not
-essential to anticipate on which FIG. 3 side the pole has to be stored for
-quickest • operation. It would appear, however, that it is easy enough to
-reach the pole on either tack at any time. Furthermore, they both require
-adjustment under way, which could nylon buffer equally apply to any
-spinnaker pole if it is being set correctly. Surely the most sophisticated
-arrangement must be that devised and used with considerable success by Rob
-Napier on 'Mersey Beat'. (See 'Y & Y', July 30 1971). This uses two poles
-or rods, which in fact is quite legal, provided only one pole is set at a
-time. At first glance the array of lines and poles is overwhelming but
-closer scrutiny uncovers some interesting innovations. Taking one pole at
-a time; the adjustable haul remains permanently attached to the end of the
-pole, which itself is devoid of any FIG. 4 clips or moving parts at the
-outer end as guide line shown in Fig. 4. The pole is automatically
-assisted in swinging back into its stored position along the main boom (
-Fig. 5) with the aid of light V shock cord shockcord and a thin 'self
-parking' guide V line. On setting the pole, the downhaul becomes a very
-important component, passing through a hole at the end of the pole, see
-Fig. 4. At the end of the downhaul is a large ring through which the
-spinnaker guy passes. As the pole is placed in position the down haul
-slack is automatically taken up and the ring at its end, closes up the
-spinnaker guy to the FIG.5 end of the pole. The tack of the spinnaker may
-then be pulled through the ring until chock a block with the end of the
-pole in the usual way. When this pole is stored and the spinnaker boomed
-out on the opposite gybe, what was the downhaul must now go slack to allow
-the spinnaker sheet freely through the ring as shown in Fig. 5. As some 6
-ft. of slack is required for this, some provision must also be made to
-adjust the down hauls and stow them when not in use.
+efficiently. One can well appreciate that time saved in setting the spinnaker
+must directly benefit boat speed, which can be invaluable in close racing and
+particularly when rounding marks. Apart from this, the stowage of the pole or
+poles alongside the boom and away from the bottom of the boat provides a much
+clearer working area.
 
+When considering the usual stages of pole permanently attached to its up and
+down hauls. and in turn storing the pole or poles along the side of the main
+boom by means of large loops. One would merely attach to FIG.1 guy and mast at
+each end in the usual way.
+
+> Fig. 1 shows the simplest method as used on Chris Hornsey's 'Up Pompey'.
+> Here the slack and adjustment necessary to ship the pole easily along the
+> main boom when not in use is catered for by an adjustable uphaul and
+> downhaul. The uphaul has to be well eased off to avoid fouling the main when
+> the pole is stored going to windward. But both up the up and downhaul have
+> to be suitably up adjusted as the pole is set in position.
+
+> Fig. 2 shows our second version.  using a refined pole fitting along
+> a spinnaker boom of parallel dimensions, with a large sliding ring attached
+> to uphaul and downhaul incorporating a slot or 'key-hole' for gybing. When
+> not in use the pole rests along the boom as in version 1, but the ring on
+> the up and downhaul slides along the pole to its 'parked' position at the
+> end just in front of the mast as in Fig. 3. The slack in the downhaul is
+> taken up by pulley and shockcord and to facilitate pole height adjustment
+> a moveable pping lift or uphaul is fitted.
+
+When gybing, the pole is twisted sideways allowing a Nylon buffer or stop to
+pass through the key-hole or slot in the ring and rest against its other side
+as the pole is pushed out on the opposite gybe.
+
+With both the above systems it is important although not essential to
+anticipate on which side the pole has to be stored for quickest operation. It
+would appear, however, that it is easy enough to reach the pole on either tack
+at any time. Furthermore, they both require adjustment under way, which could
+nylon buffer equally apply to any spinnaker pole if it is being set correctly.
+
+
+Surely the most sophisticated arrangement must be that devised and used with
+considerable success by Rob Napier on 'Mersey Beat'. (See 'Y & Y', July 30
+1971). This uses two poles or rods, which in fact is quite legal, provided
+only one pole is set at a time. At first glance the array of lines and poles
+is overwhelming but closer scrutiny uncovers some interesting innovations.
+
+Taking one pole at a time; the adjustable haul remains permanently attached to
+the end of the pole, which itself is devoid of any FIG. 4 clips or moving
+parts at the outer end as guide line shown in Fig. 4.
+
+The pole is automatically assisted in swinging back into its stored position
+along the main boom ( Fig. 5) with the aid of light V shock cord shockcord and
+a thin 'self parking' guide line.
+
+On setting the pole, the downhaul becomes a very important component, passing
+through a hole at the end of the pole, see Fig. 4. At the end of the downhaul
+is a large ring through which the spinnaker guy passes. As the pole is placed
+in position the down haul slack is automatically taken up and the ring at its
+end, closes up the spinnaker guy to the FIG.5 end of the pole. The tack of the
+spinnaker may then be pulled through the ring until chock a block with the end
+of the pole in the usual way.
+
+When this pole is stored and the spinnaker boomed out on the opposite gybe,
+what was the downhaul must now go slack to allow the spinnaker sheet freely
+through the ring as shown in Fig. 5. As some 6 ft. of slack is required for
+this, some provision must also be made to adjust the down hauls and stow them
+when not in use.
+
+This method certainly cuts down the stages setting a pole, it is easy to see
+that the simplest of setting a pole at the expense of having saving in time
+can be effected by having the formidable equipment, and it still requires
 adjustment underway. A number of spinnaker poles, on some 505s, never seem
 to be adjusted much, but that's another matter. uphaul
 
-downhaul
+---
 
-# j
+# The Secretary writes
 
-uphaul key hole slot
+THIS opportunity given by the editor is a blessing. Firstly, it saves my wife
+and me writing, cutting stencils, duplicating, folding, addressing envelopes
+and posting a News Bulletin, plus a large postal bill. Secondly, it gives
+early warning of bankers' order changes, and an amendment slip.
 
-nylon buffer downhau
-
-uphaul key hole ring ownhoul
-
-# J
-
-uphoul ring tack of spinnaker downhaul guy
-
-uphaul
-
-# J
-
-downhoul slack guy still through downhaul ring
-
-5
---- page 8 ---
-## DESIGN
-
-## LONDON
-
-# 5
-
-# 0
-
-# 5
-
-## get into TOP GEAR
-
-## with
-
-## MUSTO&HVDE
-
-Sailing Suits Supergrip Gloves Trapeze Harnesses See these and other
-accessories at all good chandlers shops Write direct for details of our
-Top Quality Racing Sails, now available with the new glass-fibre
-MICROBATTENS
-
-## Musto & Hyde Ltd
-
-3 Rawreth Industrial Estate Rayleigh Essex Tel. Rayleigh 5081
-
-# RONDAR BOATS
-
-Stiffness with lightness in all glass We build 140 gleaming new 505 's
-each year However, delivery is still long Consult us NOW about next years
-boat write to· Rondar Boats Limited Stem Lane New Milton Hants Engiand
-telephone New Milton 611273
---- page 9 ---
-THIS opportunity given by the editor is a blessing. Firstly, it saves my
-wife and me writing, cutting stencils, duplicating, folding, addressing
-envelopes and posting a News Bulletin, plus a large postal bill. Secondly,
-it gives early warning of bankers' order changes, and an amendment slip.
 Inside the back cover you will find a bankers' order form and there's an
 amendment slip below. It indicates form of membership, full and associate,
-but the fee is the same, i.e. £3. The draft constitution explains the
-differences in membership status. Please fill it in and post it to me,
-with the amendment slip. It is the only method by which a member can have
-the latest position as to boats and owners. Every member, irrespective of
-whether a change has or has not been effected, is asked to fill it in and
-return. The closing date is 31 December 1972. Amendment sheets will be
-sent to all members and I look forward to your co-operation on both
-counts. Olympics The vote of all fleets on the question of uesting Olympic
-selection produced a per cent NO. The AGM at Highcliffe also voted most
-emphatically against having this Olympic laurel around our neck. However,
-we must remember that every nation has its own views, and at the AGM
-during the world championships at Hango, in Finland, I as the chairman,
-asked representatives of each nation present to give their views before
-taking a vote. Derek Farrant expressed the views of UK but pointed out
-that it was not a case of trying to get others into our line, but to
-obtain a comprehensive idea of what the overall picture is. Every year it
-is just 'Do we want Olympics ?' Answer: 'Yes' - no discussion at all.
-France stated that they must go for Olympics - their national authority
+but the fee is the same, i.e. £3.
+
+The draft constitution explains the differences in membership status. Please
+fill it in and post it to me, with the amendment slip. It is the only method
+by which a member can have the latest position as to boats and owners. Every
+member, irrespective of whether a change has or has not been effected, is
+asked to fill it in and return. The closing date is 31 December 1972.
+Amendment sheets will be sent to all members and I look forward to your
+co-operation on both counts.
+
+## Olympics
+
+The vote of all fleets on the question of requesting Olympic selection
+produced a per cent NO. The AGM at Highcliffe also voted most emphatically
+against having this Olympic laurel around our neck. However, we must remember
+that every nation has its own views, and at the AGM during the world
+championships at Hango, in Finland, I as the chairman, asked representatives
+of each nation present to give their views before taking a vote.
+
+Derek Farrant expressed the views of UK but pointed out that it was not a case
+of trying to get others into our line, but to obtain a comprehensive idea of
+what the overall picture is.
+
+Every year it is just 'Do we want Olympics?' Answer: 'Yes' - no discussion at
+all.  France stated that they must go for Olympics - their national authority
 was insistent. Sweden was not too sure. Denmark said: 'It's absolutely
 essential'. Switzerland also want Olympic status, together with USA and
-Canada. However, there seemed some uncertainty at the meeting, and I
-requested they should take the view of their members, and send it to the
-ternational office in Paris. We are already mmitted for 1976. If you want
-any evidence of the workings of the selection for Olympics, read Jack
-Knights' article, on page 369 of 'Yachts and Yachting', 25 August 1972. No
-wonder the findings are puzzling, but then, if you have lunches, lobbying,
+Canada. However, there seemed some uncertainty at the meeting, and I requested
+they should take the view of their members, and send it to the ternational
+office in Paris. We are already committed for 1976.
+
+If you want any evidence of the workings of the selection for Olympics, read
+Jack Knights' article, on page 369 of 'Yachts and Yachting', 25 August 1972.
+No wonder the findings are puzzling, but then, if you have lunches, lobbying,
 confidential chats, and don't care a damn for the principles of democracy,
-plus, I presume, having a long
+plus, I presume, having a long pocket, then you may well 'get your oar in'.
+Interesting to note Jack Knights' selection. I have a feeling that J.K. has
+owned the following boats-and raced them-Finn, Contender, Fireball, Flying
+Dutchman and Tempest, but, to the best of my knowledge, he has not owned
+a 505. Again, to the best of my knowledge, he has sailed only once in a 505
+loaned by Gordon Rogers. His selection for the Olympics is exactly as the list
+shown here, plus the Soling.
 
-Hango, August 1972. pocket, then you may well 'get your oar in'.
-Interesting to note Jack Knights' selection. I have a feeling that J.K.
-has owned the following boats-and raced them-Finn, Contender, Fireball,
-Flying Dutchman and Tempest, but, to the best of my knowledge, he has not
-owned a 505. Again, to the best of my knowledge, he has sailed only once
-in a 505 loaned by Gordon Rogers. His selection for the Olympics is
-exactly as the list shown here, plus the Soling. It is now well known that
-at the AG M of the British 505 Association, held during national
-championship week, a unanimous vote decided, for many reasons
-(commercialism was one) not to vote for Olympic status at the
-international AGM. However, we must remember there are 20 other nations,
-and some of them are more than Name Address Boat Number Change :;;. .. _
+It is now well known that at the AG M of the British 505 Association, held
+during national championship week, a unanimous vote decided, for many reasons
+(commercialism was one) not to vote for Olympic status at the international
+AGM. However, we must remember there are 20 other nations, and some of them
+are more than eager to get in. Fine, but I sincerely hope we have the courage,
+in UK, to resist any interference or control by the Establishment. We must
+retain our self-governing status, and above all, our unique individualism,
+which is the reason for our wonderful comaradarie.
 
-eager to get in. Fine, but I sincerely hope we have the courage, in UK, to
-resist any interference or control by the Establishment. We must retain
-our self-governing status, and above all, our unique individualism, which
-is the reason for our wonderful comaradarie. Other points of interest We
-have a new international secretary in Paris. Due to the resignation of
+## Other points of interest
+
+We have a new international secretary in Paris. Due to the resignation of
 Jean Cettier about three months ago, we elected another Frenchman, Alain
 Lallemand, who appears to be a very good chap for the job. I am most
 optimistic, being the International 505 World President for the next three
-years, that there will be mutual understanding and caoperation. I trust
-the class will benefit as a consequence. Nothing else exciting at the AGM.
-The world championship itself was first-classgood courses, every kind of
-weather, from Force 2 to Force 6. I thought the organisation -from the
-racing angle-very good. As a member of the Protest Jury-four chaps in a
-fairly fast 24 ft. cruiser-l was in a good position on start line. My
-observations lead me to suggest we should try the gate start well and
-truly before Hong Kong in 1973. Hango is a small town of 8,000 population.
-Austere, lacking any kind of evening life, it is essentially a summer
-resort, mainly for sailing activities. Food very good, but expensive. Our
-hosts were very kind. Membership lncreasing numerically. This is a subject
-rather close to me, particularly the subs. side! There will be a sticker
-membership disc for 1973, in addition to membership card. This waterproof
-sticker, about the size of the obsolete half-crown, should, for
-preference, be placed on the main bulkhead. Not only will it provide
-evidence of your membership, but saves you chasing around to find your
-membership card. Eventually, as stock runs down, cards will be issued to
-associate members only. I also mention here copies of Measurement
-Certificate which can be obtained for 40p each. . . Name . No Change . I
-feel you would wish me to express the thanks of all members to the
-Executive Committee, which comprises fleet captains and basic committee,
-with special thanks to Derek Farrant for his chairmanship of the
-International Rules Committee; to John Donnelly for his International
-Draft Constitution; to John Turgoose for his most efficient work as
-treasurer, and the president, Eddie Bladon, for his good chairmanship
-during 1972. Happy sailing,
+years, that there will be mutual understanding and caoperation. I trust the
+class will benefit as a consequence.
 
-## PERCY CHANDLER
+Nothing else exciting at the AGM.  The world championship itself was
+first-classgood courses, every kind of weather, from Force 2 to Force 6.
+I thought the organisation -from the racing angle-very good. As a member of
+the Protest Jury-four chaps in a fairly fast 24 ft. cruiser-l was in a good
+position on start line. My observations lead me to suggest we should try the
+gate start well and truly before Hong Kong in 1973. Hango is a small town of
+8,000 population. Austere, lacking any kind of evening life, it is
+essentially a summer resort, mainly for sailing activities. Food very good,
+but expensive. Our hosts were very kind.
 
-Rowley and Goodley between races at Brancaster.
+## Membership
 
-## 7
---- page 10 ---
-# race 4 delayed six hours
+Increasing numerically.  This is a subject rather close to me, particularly
+the subs. side! There will be a sticker membership disc for 1973, in addition
+to membership card. This waterproof sticker, about the size of the obsolete
+half-crown, should, for preference, be placed on the main bulkhead. Not only
+will it provide evidence of your membership, but saves you chasing around to
+find your membership card. Eventually, as stock runs down, cards will be
+issued to associate members only.
+
+I also mention here copies of Measurement Certificate which can be obtained
+for 40p each.
+
+I feel you would wish me to express the thanks of all members to the Executive
+Committee, which comprises fleet captains and basic committee, with special
+thanks to Derek Farrant for his chairmanship of the International Rules
+Committee; to John Donnelly for his International Draft Constitution; to John
+Turgoose for his most efficient work as treasurer, and the president, Eddie
+Bladon, for his good chairmanship during 1972.
+
+Happy sailing,
+
+PERCY CHANDLER
+
+---
+
+Nationals at Highcliffe - race 4 delayed six hours
 
 # From a wire
 
-# By Terry Lawton
+**By Terry Lawton**
 
-MOST of this article was worked out on the end of a trapeze wire where I
-seem to have most of my inspirations. While racing, repositioning of
-fittings or an alteration or improvement in layout is obvious but the
-great difficulty is to remember it long enough to get it on to paper at
-the end of the race when one is concentrating on the job in hand.
-Spinnaker sheet systems A really friction-free spinnaker sheet system is
-something that takes a bit of organising. Grateau spinnaker sheet blocks
-are very good but need very carefully placing so the helmsman doesn't sit
-on the sheets or trap them with his calves. The latter can be cured on the
-French system by placing the final lead block as low as possible on the
-side tank so that the sheet will still clear the top of the centreboard
-case, about 4 ins. above the bottom of the boat in practice (Fig. 1). This
-is all especially necessary as the crew stops the boat rolling downwind
-with the spinnaker and can steer it most effectively and necessarily as
-well by correct trimming. He needs to be able to trim it quickly and
-easily without first having to overcome friction in a badly laid out
-system. There is enough pull on the sheets anyway on a windy day! If the
-sheet is let out too far the boat will roll to weather and if the guy is
-let forward too far and/or the sheet pulled in too far, the result is a
-roll to leeward. This is because of the forces of a spinnaker acting at
-right angles to its surface. Its whole force can be
+MOST of this article was worked out on the end of a trapeze wire where I seem
+to have most of my inspirations. While racing, repositioning of fittings or an
+alteration or improvement in layout is obvious but the great difficulty is to
+remember it long enough to get it on to paper at the end of the race when one
+is concentrating on the job in hand.
 
-Fig. 1. Final lead block placed as low as possible on the side tank-white
-tape shows old position.
+## Spinnaker sheet systems
 
-Fig. 2. Crew's toestraps.
+A really friction-free spinnaker sheet system is something that takes a bit of
+organising. Grateau spinnaker sheet blocks are very good but need very
+carefully placing so the helmsman doesn't sit on the sheets or trap them with
+his calves. The latter can be cured on the French system by placing the final
+lead block as low as possible on the side tank so that the sheet will still
+clear the top of the centreboard case, about 4 ins. above the bottom of the
+boat in practice (Fig. 1).
 
-# Nationals at Highcliffe -
+This is all especially necessary as the crew stops the boat rolling downwind
+with the spinnaker and can steer it most effectively and necessarily as well
+by correct trimming. He needs to be able to trim it quickly and easily without
+first having to overcome friction in a badly laid out system. There is enough
+pull on the sheets anyway on a windy day!
 
-# E
+If the sheet is let out too far the boat will roll to weather and if the guy
+is let forward too far and/or the sheet pulled in too far, the result is
+a roll to leeward. This is because of the forces of a spinnaker acting at
+right angles to its surface. Its whole force can be moved three or four feet
+from one side of the centre line of the boat to the other.
 
-. moved three or four feet from one side of the centre line of the boat to
-the other. Spinnaker halyard fittings The spinnaker halyard and its blocks
-and cleat need careful attention. The cleat must be easy to get at at all
-times, sometimes necessitating mounting it on an angled block (Fig. 2).
-The cams must always be metal or possibly Tufnol, never plastic as it is
-just not up to the job. This point applies to the blocks through which the
-halyard runs-again always metal and not plastic as some boat builders
-still seem to insist on fitting. It only needs a plastic sheave to jam for
-a second during a fast and furious hoist for a halyard to cut right into
-it and jam and either bring forth a mighty burst of swearing or loss of
-places, or more likely both! So,
+> Fig. 1. Final lead block placed as low as possible on the side tank-white
+> tape shows old position.
 
-# .
+> Fig. 2. Crew's toestraps.
 
-metal for durability and efficiency. Efficient trapezing When trapezing it
-would appear that a lot of people do not realize how much more comfortable
-and efficient it is to stand on the toes on the gunwale instead of the
-insteps. Toes plus weight on the wire, not the boat, make it much easier
-to relax and work efficiently without jolting the boat about. When a gust
-hits the boat the crew can stand on tip-toe and move his weight about 5
-ins. further outboard and drop back and relax when the gust drops. Toe
-straps for the crew running alongside the top of the centreboard case also
-make a crew's life easier in marginal trapezing conditions. They help him
-get back into the boat and make it easier to sit out when it is too light
-for trapezing. This is very important when flying a spinnaker as it is
-impossible to keep leaping in and out off the wire and keep the spinnaker
-drawing efficiently. Consumer report section ! It is a great pity that the
-RWO mainsheet jamber is not really up to the job. It is basically . very
-efficient but the bases pull up in the middle which lets the black packing
-piece swivel on its own. This results in a loss of rigidity making
-unjambing the main sheet difficult and unreliable as the cleat is not kept
-at a constant angle. Perhaps RWO can beef it up a bit.
+# Spinnaker halyard fittings
+
+The spinnaker halyard and its blocks and cleat need careful attention. The
+cleat must be easy to get at at all times, sometimes necessitating mounting it
+on an angled block (Fig. 2).  The cams must always be metal or possibly
+Tufnol, never plastic as it is just not up to the job. This point applies to
+the blocks through which the halyard runs-again always metal and not plastic
+as some boat builders still seem to insist on fitting. It only needs a plastic
+sheave to jam for a second during a fast and furious hoist for a halyard to
+cut right into it and jam and either bring forth a mighty burst of swearing or
+loss of places, or more likely both! So, metal for durability and efficiency.
+
+## Efficient trapezing
+
+When trapezing it would appear that a lot of people do not realize how much
+more comfortable and efficient it is to stand on the toes on the gunwale
+instead of the insteps. Toes plus weight on the wire, not the boat, make it
+much easier to relax and work efficiently without jolting the boat about. When
+a gust hits the boat the crew can stand on tip-toe and move his weight about
+5 ins. further outboard and drop back and relax when the gust drops.
+
+Toe straps for the crew running alongside the top of the centreboard case also
+make a crew's life easier in marginal trapezing conditions. They help him get
+back into the boat and make it easier to sit out when it is too light for
+trapezing. This is very important when flying a spinnaker as it is impossible
+to keep leaping in and out off the wire and keep the spinnaker drawing
+efficiently.
+
+## Consumer report section!
+
+It is a great pity that the RWO mainsheet jamber is not really up to the job.
+It is basically . very efficient but the bases pull up in the middle which
+lets the black packing piece swivel on its own. This results in a loss of
+rigidity making unjambing the main sheet difficult and unreliable as the cleat
+is not kept at a constant angle. Perhaps RWO can beef it up a bit.
 
 ## LA ROCHELLE
 
-ONCE AGAIN the English sailing press has virtually ignored the 505 racing
-at La Rochelle, which is odd when Peter White won so convincingly with a
-total of only 3 points. 'Yachting World' had about one line which had
-Derek Farrant sailing out of Weston! He came second overall and Don Bowles
-was seventh. Not a bad series of results out of 54 starters. Peter White
-and John Davies in their new Parker boat used a Proctor mast, like nearly
-everyone else, with a single suit of Seahorse sails which produced
-tremendous speed. Added to this was inspiration and a certain amount of
-good luck. Generally, they started poorly and finished powerfully thus
-winning the first three races, finishing 22nd in the fourth and then in
-the Continued on page 11.
---- page 11 ---
---- page 12 ---
+ONCE **AGAIN** the English sailing press has virtually ignored the 505 racing
+at La Rochelle, which is odd when Peter White won so convincingly with a total
+of only 3 points. 'Yachting World' had about one line which had Derek Farrant
+sailing out of Weston! He came second overall and Don Bowles was seventh. Not
+a bad series of results out of 54 starters.
+
+Peter White and John Davies in their new Parker boat used a Proctor mast, like
+nearly everyone else, with a single suit of Seahorse sails which produced
+tremendous speed. Added to this was inspiration and a certain amount of good
+luck. Generally, they started poorly and finished powerfully thus winning the
+first three races, finishing 22nd in the fourth and then in the leading group
+in the last two.
+
+Buffet was the only Frenchman to win a race (he won the last two) because of
+his skill and ability to judge the tides correctly. He was one of the very
+rare competitors who always found the buoys accurately which were often very
+difficult to locate precisely. This precision did not extend to finding boat
+speed worthy of his talent and dedication.
+
+Farrant, in contrast to White, started well only to finish moderately always
+being placed in his struggles with Loday, Marque or Buffet. After finishing
+sixth in the first race he had three seconds in a row.
+
+The fifth placed crew was a new team whose results first came to notice during
+the 505 Grand Prix at Easter. After two years in Tempests Francis Lanaverre
+returned to 505s with Francis Marque at the helm. They were well equipped with
+a Lanaverre hull and Cheret sails which gave them good boatspeed.
+
+**Now** that the Olympic trials for Kiel hopefuls are almost over, one could
+welcome back to the class helmsmen like Gade! and Danielou who were always
+amongst the leaders at La Rochelle whatever the weather. Similarly, in England
+we should soon see Larry Marks and Co. back in action.
+
+---
+
+# Carbon fibre
+
+**By Tom Carr**
+
 IT IS almost five years since we heard of the extraordinary performance
-claimed for carbon fibre in applications previously the domain of
-glass-fibre and metal alloys. This article is concerned mainly with the
-practical success of such applications and the more meaningful advantages
-that might be realised by the enthusiastic 505 owner. The commercial grade
-of fibre is available as a 10,000 filament tow which can be braided with
-Terylene thread or woven into a Terylene tape. Morganite Modmor
-manufacture Modmor braid in a 4-tow form which is about 2 mm in diameter
-and in two typeshigh strength and high modulus. The performance of the
-fibre is affected by the finishing process in its manufacture-the heat
+claimed for carbon fibre in applications previously the domain of glass-fibre
+and metal alloys. This article is concerned mainly with the practical success
+of such applications and the more meaningful advantages that might be realised
+by the enthusiastic 505 owner.
+
+The commercial grade of fibre is available as a 10,000 filament tow which can
+be braided with Terylene thread or woven into a Terylene tape. Morganite
+Modmor manufacture Modmor braid in a 4-tow form which is about 2 mm in
+diameter and in two typeshigh strength and high modulus. The performance of
+the fibre is affected by the finishing process in its manufacture-the heat
 treatment is applied to achieve either characteristics of high strength or
 modulus (stiffness). The fibre performance cannot properly be assessed in
-isolation and, as with glass-fibre, the fibres are laid as a matrix in
-resin for the strength and stiffness to be measured. Astute 505
-afficionados will have noticed G. W. Parker's use of Courtauld's Grafil to
-strengthen/stiffen the hulls of their most recent boats. Grafil is a tape
-with a carbon fibre ridge or core and is glassed on to the inside surface
-of the hulls as a 4 in. net. The carbon fibre allows a reduction in the
-thickness of the GRP skin and an effective reduction in the thickness of
-the GR P skin and an effective reduction in hull weight of 2-3 lb.-this
-for the additional cost of about £20 on the finished hull which seems
-reasonable in the light of the experience of the owners of the new carbon
-fibre reinforced boats. Carbon fibre was originally used by Parkers when
-they built two shells using strands as a reinforcing agent; in the first
-as a stiffener for the floor and the flair forward of the bulkhead; in the
-second as pre (resin) impregnated squares of about 3 in. in the FIG.1
+isolation and, as with glass-fibre, the fibres are laid as a matrix in resin
+for the strength and stiffness to be measured.
 
-## BEND
+Astute 505 afficionados will have noticed G. W. Parker's use of Courtauld's
+Grafil to strengthen/stiffen the hulls of their most recent boats. Grafil is
+a tape with a carbon fibre ridge or core and is glassed on to the inside
+surface of the hulls as a 4 in. net. The carbon fibre allows a reduction in
+the thickness of the GRP skin and an effective reduction in the thickness of
+the GR P skin and an effective reduction in hull weight of 2-3 lb.-this for
+the additional cost of about £20 on the finished hull which seems reasonable
+in the light of the experience of the owners of the new carbon fibre
+reinforced boats.
 
-1 table top
+Carbon fibre was originally used by Parkers when they built two shells using
+strands as a reinforcing agent; in the first as a stiffener for the floor and
+the flair forward of the bulkhead; in the second as pre (resin) impregnated
+squares of about 3 in. in the lay-up on the floor and of about 4 in. in the
+forward flair. In the second hull a weight saving of less than 10 per cent
+added 70 per cent to the retail cost of the shell. This brings us back to the
+fundamental consideration of the high cost of carbon fibre in any quantity
+against the claimed improvement in hull stiffness. In this context Rondar's
+claim to have shown a worthwhile saving in weight by using carbon fibre in the
+construction of foredecks on Contenders.
 
-## ELEVATION
+Some 'informed' writers have claimed that the random mat carbon fibre which
+consists of random fibres set in a resin to form a very thin mat would be of
+interest to the builders of high performance GRP bodies. At about £65 a pound,
+this seems unattractive except in admittedly expensive applications such as
+sports car bodies. The body of a Ford GT40 was 'reduced' in weight by
+incorporating carbon fibre from 135 lb. to 93 lb. and won Le Mans twice.  Even
+in this instance the body was reinforced with a tartan pattern of block tows
+and not random mat. Not only did the GT40 body need less repair but gave at
+least twice the life normally expected of a GRP body.
 
-## FIG. 1A TWIST
-
-## PLAN
-
-1 FIG. 2 3 inches net
-
-10
-
-# By Tom Carr
-
-lay-up on the floor and of about 4 in. in the forward flair. In the second
-hull a weight saving of less than 10 per cent added 70 per cent to the
-retail cost of the shell. This brings us back to the fundamental
-consideration of the high cost of carbon fibre in any quantity against the
-claimed improvement in hull stiffness. In this context Rondar's claim to
-have shown a worthwhile saving in weight by using carbon fibre in the
-construction of foredecks on Contenders. Some 'informed' writers have
-claimed that the random mat carbon fibre which consists of random fibres
-set in a resin to form a very thin mat would be of interest to the
-builders of high performance GRP bodies. At about £65 a pound, this seems
-unattractive except in admittedly expensive applications such as sports
-car bodies. The body of a Ford GT40 was 'reduced' in weight by
-incorporating carbon fibre from 135 lb. to 93 lb. and won Le Mans twice.
-Even in this instance the body was reinforced with a tartan pattern of
-block tows and not random mat. Not only did the GT40 body need less repair
-but gave at least twice the life normally expected of a GRP body. Perhaps
-we should leave the realms of the performance of carbon fibre and its
+Perhaps we should leave the realms of the performance of carbon fibre and its
 application in GRP shells and examine the opportunities for improving
 equipment. The minimum sailing weight of a 505 is 127.4 Kg. (280 lb.) but
-while we are keen to ensure a dry hull weight of 100 Kg. (220 lb.) we do
-not necessarily take care to minimise the weight of our spars and other
-fittings. Opportunities for lighter weight or at least reduced profile in
-spars and fittings might be examined. The spinnaker pole: This spar
-represents a classical case of a pure strut. The diameter chosen to meet
-the best compromise between the conflicting measure departure from medial
-line at points 1 to 5 2 3 5 medial line weight here
+while we are keen to ensure a dry hull weight of 100 Kg. (220 lb.) we do not
+necessarily take care to minimise the weight of our spars and other fittings.
+Opportunities for lighter weight or at least reduced profile in spars and
+fittings might be examined.
 
-measure as in FIG. 1
+## The spinnaker pole:
 
-3 2
+This spar represents a classical case of a pure strut. The diameter chosen to
+meet the best compromise between the conflicting requirements of handlability
+and buckling strength, while the mass needs to be made as small as possible to
+facilitate the allcritical manoeuvres of setting, lowering and gybing the
+spinnaker.
 
-requirements of handlability and buckling strength, while the mass needs
-to be made as small as possible to facilitate the allcritical manoeuvres
-of setting, lowering and gybing the spinnaker. The performance of struts
-(poles) of identical dimension have shown carbon fibre reinforced plastic
-(CFR P) able to withstand four to five times the buckling load of
-aluminium. (Even wood had about three times the buckling strength of
-aluminium). In practical terms 505 strut fittings could be made of much
-smaller cross-section than aluminium for an equivalent performance. Mixed
-carbon/boron RP construction was used by the successful defender of the
-1970 America's Cup for the spinnaker pole as well as the boom and cross
-trees. The mast: The design factors for the mast are different and more
-complicated. The lower part below the shrouds is primarily a strut and, as
-has been shown in the trend away from the traditional thin-walled large
-cross section spars to thick walled 'narrow' spars, CFRP might make a
-particularly advantageous improvement-low weight but with the strength of
-a Needlespar or low weight but without diamonds, etc., of an old de
-Havilland Similarly, in the upper part of the mast the main demand is to
-control the curvature of the sail leach in a predictable manner, while
-offering the minimum of obstruction to the airflow around the crucial
-leading edge of the aerofoil constituted by a full sail. Mass is at some
-premium here, as it impairs the stability at sea. The centreplate This
-represents a more feasible application and one more capable of research by
-the enthusiastic 505 innovator. A combination of drag and water pressure
-on the leeward side conspire to twist the plate so as to impair its
-function of minimising transverse motion due to the beam component of the
-wind. This is not to suggest that for a fully lowered blade distortion or
-bend in a vertical plane is necessarily a bad thing. Some degree of
-resilience means that shocks imposed by the blade when sailing are partly
-absorbed and not fully transmitted to the centreboard casing. What is
-required is a reliable 'plate which will not twist differentiall along the
-length of the 'blade, i.e. when fully lowered, turn in a horizontal plane.
-Perhaps there is even a case for reinforcing skin of the 'plate to
-stabilise possible warping tendencies (a new boat at Brancaster this year
-has a permanently warped 'plate). Suggested research for the winter The
-centreplate: (1) Examine the centreplate for permanent distortion. (2)
-Determine existing torsional/bending characteristics ( Fig. 1). (3) Cut in
-a diagonal pattern of grooves of a 3 in. net pattern on each surface (Fig.
-2) and glass in Modmor braid without prejudice to the material strength of
-the existing wooden core on its leading and trailing edges. Rub down and
-repaint. NB: Take special care at this stage to eliminate any 'hollows'.
-(4) Re-test characteristics of modified 'plate. (5) Cynics' stage ... try
-hard to justify time and expense when ridiculed by jealous contemporaries.
-Small quantities of carbon fibre tows in 1 metre length can be obtained
-from Bondglass Ltd., 158-164 Ravenscroft Road, Beckenham Kent.
---- page 13 ---
-# By Martin Thompson
+The performance of struts (poles) of identical dimension have shown carbon
+fibre reinforced plastic (CFR P) able to withstand four to five times the
+buckling load of aluminium. (Even wood had about three times the buckling
+strength of aluminium). In practical terms 505 strut fittings could be made of
+much smaller cross-section than aluminium for an equivalent performance.
 
-HAVING been continually frustrated at 505 national championships over the
-past three years by general recalls, a solution to this problem of
-starting large fleets by the gate start rather than the conventional fixed
-line start may be the answer. I would like to point out, however, that I
-feel the art of successful • conventional starting is extremely complex
-and demands greater skill on helmsman and crew in perfecting the start.
-They should therefore continue to be used as much as possible where
-conditions allow and the gate start be the alternative. At the annual
-general meeting of the International 505 Class-British Association -held
-at Highcliffe Sailing Club on 19 July 1972, a proposition to use gate
-starts where practicable at future open meetings with a view to them being
-used at next year's national championships at Largs, was almost
-unanimously carried. This naturally depends on the Largs club providing
-the option of a gate start and, of course, the the club holding yearly
-open meetings. Gate starting works like this: Normally the option to gate
-start will be written into the sailing instructions with possibly a brief
-outline. To indicate a gate start the committee boat may fly code flag
-'G'. As well as a committee boat a gate boat, normally a rescue boat or
-similar capable of steaming
+Mixed carbon/boron RP construction was used by the successful defender of the
+1970 America's Cup for the spinnaker pole as well as the boom and cross trees.
 
-# From a wire
+## The mast:
 
-Continued from page 8. leading group in the last two. Buffet was the only
-Frenchman to win a race (he won the last two) because of his skill and
-ability to judge the tides correctly. He was one of the very rare
-competitors who always found the buoys accurately which were often very
-difficult to locate precisely. This precision did not extend to finding
-boat speed worthy of his talent and dedication. Farrant, in contrast to
-White, started well only to finish moderately always being placed in his
-struggles with Loday, Marque or Buffet. After finishing sixth in the first
-race he had three seconds in a row. The fifth- placed crew was a new team
-whose results first came to notice during the 505 Grand Prix at Easter.
-After two years in Tempests Francis Lanaverre returned to 505s with
-Francis Marque at the helm. They were well equipped with a Lanaverre hull
-and Cheret sails which gave them good boatspeed. Now that the Olympic
-trials for Kiel hopefuls are almost over, one could welcome back to the
-class helmsmen like Gade! and Danielou who were always amongst the leaders
-at La Rochelle whatever the weather. Similarly, in England we should soon
-see Larry Marks and Co. back in action.
+The design factors for the mast are different and more complicated. The lower
+part below the shrouds is primarily a strut and, as has been shown in the
+trend away from the traditional thin-walled large cross section spars to thick
+walled 'narrow' spars, CFRP might make a particularly advantageous
+improvement-low weight but with the strength of a Needlespar or low weight but
+without diamonds, etc., of an old de Havilland.
+
+Similarly, in the upper part of the mast the main demand is to control the
+curvature of the sail leach in a predictable manner, while offering the
+minimum of obstruction to the airflow around the crucial leading edge of the
+aerofoil constituted by a full sail.  Mass is at some premium here, as it
+impairs the stability at sea.
+
+## The centreplate
+
+This represents a more feasible application and one more capable of research
+by the enthusiastic 505 innovator. A combination of drag and water pressure on
+the leeward side conspire to twist the plate so as to impair its function of
+minimising transverse motion due to the beam component of the wind. This is
+not to suggest that for a fully lowered blade distortion or bend in a vertical
+plane is necessarily a bad thing. Some degree of resilience means that shocks
+imposed by the blade when sailing are partly absorbed and not fully
+transmitted to the centreboard casing. What is required is a reliable 'plate
+which will not twist differentiall along the length of the 'blade, i.e. when
+fully lowered, turn in a horizontal plane.
+
+Perhaps there is even a case for reinforcing skin of the 'plate to stabilise
+possible warping tendencies (a new boat at Brancaster this year has
+a permanently warped 'plate).
+
+## Suggested research for the winter
+
+The centreplate:
+1. Examine the centreplate for permanent distortion.
+2. Determine existing torsional/bending characteristics ( Fig. 1).
+3. Cut in a diagonal pattern of grooves of a 3 in. net pattern on each surface
+   (Fig.  2) and glass in Modmor braid without prejudice to the material
+   strength of the existing wooden core on its leading and trailing edges. Rub
+   down and repaint. NB: Take special care at this stage to eliminate any
+   'hollows'.
+4. Re-test characteristics of modified 'plate.
+5. Cynics' stage ... try hard to justify time and expense when ridiculed by
+   jealous contemporaries.
+
+Small quantities of carbon fibre tows in 1 metre length can be obtained from
+Bondglass Ltd., 158-164 Ravenscroft Road, Beckenham Kent.
+
+---
+
+# Gate Strts
+
+**By Martin Thompson**
+
+HAVING been continually frustrated at 505 national championships over the past
+three years by general recalls, a solution to this problem of starting large
+fleets by the gate start rather than the conventional fixed line start may be
+the answer. I would like to point out, however, that I feel the art of
+successful conventional starting is extremely complex and demands greater
+skill on helmsman and crew in perfecting the start. They should therefore
+continue to be used as much as possible where conditions allow and the gate
+start be the alternative.
+
+At the annual general meeting of the International 505 Class-British
+Association - held at Highcliffe Sailing Club on 19 July 1972, a proposition
+to use gate starts where practicable at future open meetings with a view to
+them being used at next year's national championships at Largs, was almost
+unanimously carried. This naturally depends on the Largs club providing the
+option of a gate start and, of course, the the club holding yearly open
+meetings.
+
+Gate starting works like this: Normally the option to gate start will be
+written into the sailing instructions with possibly a brief outline. To
+indicate a gate start the committee boat may fly code flag 'G'. As well as
+a committee boat a gate boat, normally a rescue boat or similar capable of
+steaming as fast as a Five-O close hauled, can be used. If not, the committee
+boat acts as gate boat. Also used is a 505 previously selected who acts as the
+pathfinder. The pathfinder for the following races is usually the boat to
+finish ninth in the preceding race.
+
+The committee and gate boats station themselves in the starting area, this can
+also be indicated by a mark, not usually a mark of the course (Fig. 1).
+
+Code flag 'W' is flown as normal 10 minutes before the start. At and after
+the GB preparatory signal, code flag 'P', competitors are advised to remain to
+leeward and upwind of an imaginary line passing through the mainmast of the
+gate boat and representing a close hauled port tack course away from the gate
+boat.
+
+About one minute before the starting windward· signal the Five-O acting as
+pathfinder will mark start her close hauled port tack from the vicinity of the
+starting area and the gate wind boat will follow her (Fig. 2).
+
+With roughly three seconds before the starting signal the gate boat will
+release a free floating distance mark.
+
+After the starting signal competitors who have been waiting to leeward and
+upwind of the pathfinder's close hauled tack may cross on starboard tack
+between the free floating distance mark and the stern of the gate boat through
+the continuously increasing gap created (Fig. 3).
+
+When the race officer considers that enough time has been allowed (two minutes
+or so is generally adequate) the gate boat will indicate to the pathfinder
+that she is free to join the race. The pathfinder will then gybe round behind
+the gate boat and join the race (Fig. 4).
+
+
+Normally after releasing the pathfinder, windward mark the gate boat will
+proceed on course for 4 to 5 minutes or longer (at the discretion wind of the
+race officer), and then a siren or similar will be sounded to indicate the
+gate is fully open.
+
+The gate boat may then drift for about three minutes when code flag **'G'
+will** be lowered, accompanied by a sound indicating the closing of the gate,
+after which no competitor may start.
+
+It must be emphasised that after the preparatory signal no boat must approach
+any extension of the starting line and thus threaten the free sailing of the
+pathfinder. Anyone interfering with either pathfinder or gate boat will be
+liable to disqualification. It is also normal that anyone who sails into the
+situation whereby he will foul either pathfinder or gate boat can hail a right
+of way dinghy for room to tack, but must then retire immediately.
+
+Boats that barge in around the stern of mark the gate boat can be protested
+against, just as if the gate boat were an ordinary mark. In theory there are
+fewer of them because the start has been spread over several minutes.
+
+There are, however, two possible disadvantages to the gate start. The first is
+that if the helmsman of the pathfinder is exceptionally good, the boats
+starting at the late end of the line may have the advantage over the others.
+Conversely if the helmsman is moderate, it may pay to start early. In other
+words the tendency to bunch at one end or other may still exist.
+
+Nevertheless with reasonably moderate sea states and winds of not more than
+force 4, gate starts could be a useful alternative to conventional line
+starts.
+
+
+---
 
 # SOS ADOPTED
 
@@ -950,556 +1009,3 @@ with the Waveney and Oulton Broad Yacht Club before the first season at
 sea in April. Details of the RN & SVC and its facilities can be obtained
 from D. S. Leech, 25 Field View Drive, Lowestoft, Suffolk. Tel.: home
 64072; office 61726.
-
-## STARTING AREA
-
-windward mark wind CB committee boat as fast as a Five-O close hauled, can
-be used. GB gate boat If not, the committee boat acts as gate boat. P
-pathfinder Also used is a 505 previously selected who acts as the
-pathfinder. The pathfinder for the following races is usually the boat to
-finish ninth in the preceding race. The committee and gate boats station
-themselves in the starting area, this can also be indicated by a mark, not
-usually a mark of the course (Fig. 1).
-
-# A
-
-Code flag 'W' is flown as normal 10 minutes before the start. At and after
-the GB preparatory signal, code flag 'P', competitors are advised to
-remain to leeward and upwind CB Fig. 1 of an imaginary line passing
-through the mainmast of the gate boat and representing
-
-## 1 MINUTE
-
-a close hauled port tack course away from
-
-## BEFORE START
-
-the gate boat. About one minute before the starting windward· signal the
-Five-O acting as pathfinder will mark start her close hauled port tack
-from the vicinity of the starting area and the gate wind boat will follow
-her (Fig. 2). With roughly three seconds before the starting signal the
-gate boat will release a free floating distance mark. After the starting
-signal competitors who have been waiting to leeward and upwind of the
-pathfinder's close hauled tack may cross on starboard tack between the
-free floating distance mark and the stern of the gate boat through the
-continuously increasing gap created (Fig. 3). When the race officer
-considers that enough time has been allowed (two minutes free floating
-mark or so is generally adequate) the gate boat Fig. 2 will indicate to
-the pathfinder that she is free to join the race. The pathfinder will then
-
-## START
-
-gybe round behind the gate boat and join the race (Fig. 4). Normally after
-releasing the pathfinder, windward mark the gate boat will proceed on
-course for 4 to 5 minutes or longer (at the discretion wind of the race
-officer), and then a siren or similar will be sounded to indicate the gate
-is fully open. The gate boat may then drift for about three minutes when
-code flag 'G' will be lowered, accompanied by a sound indicating the
-closing of the gate, after which no competitor may start. It must be
-emphasised that after the preparatory signal no boat must approach GB any
-extension of the starting line and thus threaten the free sailing of the
-pathfinder. Anyone interfering with either pathfinder or gate boat will be
-liable to disqualification. free floating mark Fig. 3 It is also normal
-that anyone who sails into the situation whereby he will foul either
-pathfinder or gate boat can hail a right of way
-
-## 2-3 MINUTES
-
-dinghy for room to tack, but must then
-
-## AFTER START
-
-retire immediately. windward Boats that barge in around the stern of mark
-the gate boat can be protested against, just as if the gate boat were an
-ordinary mark. In wind theory there are fewer of them because the start
-has been spread over several minutes. There are, however, two possible
-disadvantages to the gate start. The first is that if the helmsman of the
-pathfinder is exceptionally good, the boats starting at the late end of
-the line may have the advantage over the others. Conversely if the
-helmsman is moderate, it may pay to start early. In other words the
-tendency to bunch at one end or other may still exist. Nevertheless with
-reasonably moderate CB sea states and winds of not more than free floating
-mark force 4, gate starts could be a useful alternaFig 4. tive to
-conventional line starts. 11
---- page 14 ---
-# like
-
-# • ... paints like ours
-
-Blue Peter Varnish lnterlux Yacht Enamel One-O-One Polyurethane Enamel One
-Pot 708 Two Pot Polyurethane Enamel International Hard Racing Antifouling
-
-You can get these paints in a wide variety of colours, from chandlers at
-every sailing centre in Britain and around the world. This applies to
-International enamels, varnishes, polyurethanes and antifoulings for
-wooden, steel, aluminium, concrete, glassfibre and polystyrene craft.
-
-# InternationalYachtPaints
-
-24-30 Canute Road, Southampton Tel: 0703 24712 12
-
-## $ Putney London sw
-
-# For your
-
-# 505
-
-# Slimline Spars
-
-# Jack Holt Mainsails
-
-# Foresails and
-
-# Spinnakers
-
-Fittings such as ratchet blocks - roller travellers centre main sheet
-jammers and 500 other types all top class fittings.
-
-## FOR FURTHER INFORMATION OF
-
-## SPARS, SAILS, FITTINGS - WRITE
-
-## OR PHONE FOR DETAILS
-
-## JACK HOLT LTD. THE EMBANKMENT, PUTNEY,
-
-## LONDON, SW 15
-
-Tel: 01-788 9255
---- page 15 ---
-505 sailing can be hair raising as this model on the trapeze discovered on
-location on the south coast for some calendar shots.
-
-## INTERNATIONAL FIVE-O-FIVE
-
-## IN
-
-## ETCHED POLISHED COPPER
-
-This handsome plaque depicts an INTERNATIONAL FIVE-0-FIVE in polished
-copper on black background. Beautifully mounted with polished copper edges
-and fully laquered to prevent tarnishing. Ideal as a prize for open
-meetings. Provision made for free standing or as wall hung decoration.
-SIZE : 12 in. x 8 in. x ½ in .
-
-## PRICE : £4.75 post free
-
-or personalised with your sail number
-
-## 75p extra
-
-Available from:
-
-## SAIL & POWER BOAT FITTINGS
-
-## 394 LYMINGTON ROAD,
-
-## HIGHCLIFFE, HANTS.
-
-Send also for details of our Shroud Plate Sleeves, Tiller Extensions with
-'Grip' finish, Nylon Trapeze handles and Deck Bushes, etc. 13
---- page 16 ---
-# GAMBLING PLAYS A PART
-
-# IN RACING - BUT IN SAIL
-
-# BUYING YOU CAN ALWAYS
-
-# BACK A CERT!
-
-The advanced Seahorse pattern cutting system ensures that your sails can
-be exact duplicates of those used by the champion, a statement which we
-support by these results :
-
-# British National Championship
-
-# 1st, 2nd, 4th, 5th
-
-# *
-
-## PLUS OVERALL WINNERS IN SCOTTISH, NORTH AMERICAN
-
-## AND FRENCH CHAMPIONSHIPS AND EIGHT FROM THIRTEEN
-
-BRITISH OPEN MEETINGS ALREADY IN 1972.
-
-SHORTEN YOUR OWN ODDS BY ORDERING THE CHAMPION'S CHOICE IN SAILS
-
-# Seahorse Sails Ltd
-
-from BRETT SAIL LOFT,
-
-## HADLEIGH, IPSWICH, SUFFOLK
-
-Tel : HAD 2289
-
-14
---- page 17 ---
-## RACING DINGHY SPECIALISTS
-
-# CHRIS HORNSEY (Chandlery)
-
-Sea-Sure Holt-Allen Ronstan
-
-## 154 Eastney Road, Southsea, Hants.
-
-Barton
-
-## Tel. Portsmouth 34728
-
-## R.W.O.
-
-Hard sole wet-suit boots (sizes 2 to 10) £4.50 per pair plus
-
-## DETAILED SECTION
-
-p/p 25p Hard Sole Boots
-
-## OF NON FOULING
-
-## SPREADER TIP
-
-Fico telescopic tiller extension - closed 30 ins., extended 4 ft. 6 ins.
-If you can't beat 'em - join 'em ! ! £3.25 plus p/p 16p. Pa rrot- Perches
-Complete setstate whether self-tappers or rivets reqd. £1.65 plus p/p 16p.
-
-## 505 12 oz. Over-boom canvas covers with 9 in. valance
-
-## and heavy lashings. A quality cover expertly made by our
-
-## £19 plus p/p 67p.
-
-## own staff
-
-# Championship Yachting
-
-# CHRONOGRAPH
-
-This slim, elegant watch has been designed by experts exclusively for the
-discriminating sailor who requires the best, regardless of price. The top
-quality Swiss movement employs a jewelled lever escapement, ensuring the
-highest standard of accuracy, and is shock protected by " Incabloc ~ ".
-The
-
-## WET
-
-clear, black, nonreflective dial has
-
-## SUITS
-
-tritium illuminated batons and matching
-
-## and
-
-inlaid nickel time of day hands.
-
-## KITS
-
-# £19.75
-
-The fully independent stop-watch
-
-## from £6.70
-
-operates an exceptionally clear fluorescent red centre sweep, calibrated
-to I /5 second, synchronised
-
-## NYLON
-
-to a matching elapsed minute hand, traversing a unique dual dial, for
-Boxed(5 oz. Dunloprufe) positive read out under all conditions. complete
-
-## SAILING SUITS
-
-Able to record a wide range of with waterelapsed time for navigational
-purfrom £7.50 poses, it is particularly designed to proof strap time
-racing starts at the press of a
-
-## BELTS
-
-and written button. The light but strong diving
-
-## BATTENS
-
-12 month case is tested to 3 atmospheres,
-
-## HEAVY JACKETS
-
-approximately 100 feet depth, and guarantee has a stainless steel screw
-back. ETC.
-
-# ACE
-
-Another aid to better sailing from:
-
-## WHOLESALE & GENERAL SUPPLY COMPANY
-
-Details from:
-
-## WATERSPORTSWEAR
-
-Racing Dinghy Section
-
-## Blagdon, Bristol, BS18 6TR
-
-Pottersbury, Towcester, Northamptonshire NN12 7PQ Tel: Blagdon 285 If not
-available from your chandler, add 25p for immediate regd. despatch
-
-Elvstrom
-
-## I.Y.E.
-
-Lewmar Fico Ermat Musto & Hyde trapeze belts . State whether lace-up or
-buckle type. £7.25 plus p/p 21p
-
-15
---- page 18 ---
-Advertise your boat here and reach all Parker 505 K4051 Gollybog. members
-of the class and other potential 505 K3405 Parker De Luxe. 505 owners.
-Standard charge of £1.50 Second season, Seahorse Sails, Little used.
-Proctor Mast, Neddleentitles you to a 1 in. deep panel with up £530.
-Martin Thompson, 12 spar Boom Centre Main, Cover to 50 words. Send to:
-Mike Duffield, Tamar Rise, Springfield, ChelmsSeahorse Sails. Fully
-equipped, 505 Great Britain, 10 Mill Lane, Cropford, Essex. Chelmsford
-5941 5 £575. Tim Hill, Aldershot 24732 well Bishop, Nottingham NG12 3BT,
-by 24 February 1973 for the April issue. K4052 Parker 1970. Seahorse For
-Sale: '505' K3876 Rondar 505 3514 Ex-world championmain, jib and spinnaker
-and top composite, chute, Proctor spars, cover. £500. David Johnson, 5
-ship boat. New mast, sails. Fully Banks sails, extras include comOrchard
-Road South, March, fitted out. Many extras, cover, pass, trolley, cover.
-Exceptional Cambs. Tel: March 2162. £400. Tel: Mike Brooks at
-Emscondition. £475. A. E. Gibbs, worth 2248 (evenings). 32 Grove Road,
-Havant, Hants. Tel: Havant 5168. 505 K 4415, Up Pompey, 9 months old
-Parker hull, British racing green with K4149 'Treble Rebel' 1971 National
-opaline decks. Banks'sails, Proctor acidK 4155 Rondar, all glass. Chute,
-etched, E section mast, Needlespar Championship winner, Parker built,
-Proctor E. Flat Mountifields, fullish boom, fitted out to a high
-specification completed 1971, Needlespars, chute, Seahorse main and jib,
-Seahorse with all the latest gear. Fitted cover, Banks sails, cover, very
-fully equipped. spinnaker. Can be seen and tried at expensive but
-negotiable. Contact Price £590. Trailer and trolley available Grafham 475.
-Daytime: FARRANT, Chris Homsey, 154 Eastney Road, at extra cost. John
-Donnelly, 28 01-486 4222 or PITT, Welwyn Garden
-
-# 505 SHOP
-
-Southsea, Hants., telephone PortsCrescent Road, Alverstoke, Gosport,
-27681. Evenings: Royston. mouth 34728. Hants. Gosport 80621.
-
-# 505 Polo neck, long sleeve sweat shirts
-
-# at £1.25
-
-# 505 Tee shirts at 0.7Sp each, 3 for £2.0
-
-# 505 Car badges at £1.25 each
-
-# 505 Windscreen stickers at I Op (plastic)
-
-# 505 Lapel badges at 30p each
-
-# 505 Ties (silver 505 on dark blue back­
-
-# ground) in best quality Terylene
-
-# at £1.0 each
-
-# 505 Blazer badge £I.10 each
-
-All post free and available from: Percy Chandler, 'Madeira', Seaside Way,
-St. Leonards-on-Sea, Sussex. Cheques and postal orders should be made
-payable to 'International 505 (BA)' and crossed 'Midland Bank'. 16
---- page 19 ---
-## BANKER'S ORDER
-
-## (Please complete in BLOCK CAPITALS)
-
-## To the Manager
-
-## Address
-
-## .
-
-## Please pay to the account of:
-
-## THE INTERNATIONAL 505 CLASS-BRITISH
-
-## ASSOCIATION,
-
-## Midland Bank, Norman Road, St. Leonards on Sea.
-
-## NOW £3 and the sum of £3 on the first day of January of
-
-## each succeeding year, without application, until
-
-## countermanded.
-
-## Please return this form to: The Honorary Secretary, Cmdr. Percy Chandler, International 505 Class -
-
-## British Association, Seaside Way, St. Leonards on Sea, Sussex.
-
-# CONSULTANCY SERVICE
-
-# Fleet Captains
-
-BURNHAM T. G. Heggs, 14 Dolesbury Drive, Mardley Hill, Welwyn, Herts.
-
-## BRANCASTER STAITHE
-
-Mike Bushby, Hill Farm, Great Dunham, Kings Lynn, Norfolk. CHEW VALLEY T.
-Griffiths, Fairways, Blagdon, Bristol. ORAYCOTE Paul Ginns, 14 Sunnyhill,
-Burbage, Hinckley, Leics. EASTBOURNE P. Towner, 21 Wannock Lane,
-Willingdon, Eastbourne, Sussex. EARWOOD P. Bower, 191 Buxton Road, High
-Lane, Stockport, Cheshire. FELIXSTOWE FERRY Martin Thompson, 12 Tamar
-Rise, Springfield, Chelmsford, Essex. GRAFHAM WATER J. Bradley, 4 Dognell
-Green, Welwyn Garden City, Herts. HELENSBURGH W. Morrison, 54 William
-Street, Helensburgh, Dunbartonshire. HOVERINGHAM Lance Hird, 56 Valley
-Road, Bilsthorpe, Newark, Notts. HASTINGS & ST. LEONARDS Gordon Wilson, 3
-Knoll Rise, St. Leonards-on-Sea, Sussex. HIGHCLIFFE E. S. Gibson, 12
-Branders Lane, Southbourne, Bournemouth, Hants. "AYLING ISLAND M. Enderby,
-Kells Cottage, Wade Court Road, Havant, Hants. LOWTON G. By-rd, 5
-Ennerdale Drive, Frodsham, Cheshire. LARGS P. Robinson, 4 Drummilling
-Drive, West Kilbride, Ayrshire. LOCH LOMOND lain Duncan, 58 Colquhoun
-Street, Helensburgh, Dunbartonshire. MEDWAY Stuart Wright, Hillyfield,
-Higham, Rochester, Kent. NORTHAMPTON Derek Shave, 210 Alwyn Road, Rugby,
-Warwicks. OGSTON K. Cooper, Abbey Wood House, Newstead Abbey Park, Linby,
-Notts. RUNSWICK BAY C. P. Graham, 23 Wilton Bank, Saltburnby-Sea, Yorks.
-SUTTON Barry Mason, 23 Sherifoot Lane, Four Oaks, Sutton Coldfield,
-Warwicks. STOKES BAY J. Donnelly, 21 Ashburton Road, Alverstoke, Gosport,
-Hants. SHEPPEY Chris Harris, 8 Parish Road, Minster-in-Sheppey, Kent.
-SKEGNESS W. Parker, 5 Irby Street, Boston, Lines. STAINES Queen Mary
-Sailing Club, Colin Meadows, 18 Beaumont Rise, Marlow, SL7 1EB. WEST
-CHESHIRE Rob Napier, The Rosings, 12 South Road, Grassendale, Liverpool.
-WESTON I. Henry, 20 Pine Drive, Thornhill, Southampton. WEIR WOOD W. T.
-Kersley, 30 Deans Walk, Canons Hill, Old Coulsdon, Surrey. Any of the
-above will be happy to help you join the world's greatest. most exciting,
-friendliest of international classes
-
-## Name (in Block Capitals, please)
-
-## Bank
-
-## Bankers are requested to TYPE name
-
-## on credit advice
-
-## Signature
-
-## .
-
-## Date
-
-## .
-
-## Address
-
-## FINDHORN
-
-## ■ FLEETS
-
-## • SAILED HERE
-
-## LOCHLOMOND
-
-## HELENSBURGH
-
-## LARGS
-
-## RUNSWICK BAY
-
-## WEST CHESHIRE
-
-## SKEGNESS
-
-## ■ LOWTON
-
-## SHEFFIELD
-
-## ■ ERRWOOD
-
-## BRANCASTER STAITHE
-
-## ■ HOVERINGHAM
-
-## OGSTON
-
-## SUTTON
-
-## FELIXSTOWE
-
-## NORTHAMPTON
-
-## NEW QUAY
-
-## GRAFHAM WATER
-
-## BURNHAM-ON-CROUCH
-
-## OXFORD
-
-## SHEPPEY
-
-## STAINES
-
-## MEDWAY
-
-## BRISTOL
-
-## OUTH WALES
-
-## CHEW VALLEY
-
-## HASTINGS
-
-## ST. LEONARDS
-
-## CHICHESTER
-
-## EAST SUSSEX
-
-## •
-
-## HAYLING ISLAND
-
-w
-
-## THING
-
-## BOURNEMOUTH
-
-## LYME REGIS
-
-## EAST COWES
-
-## STARCROSS
-
-## LYMOUTH
---- page 20 ---
-# WE STOCK
-
-Proctor Mast and Booms and Talurit slice and swag while you wait. By
-Experts. * * * The most popular buoyancy in the World - FLOTHERCHOC
-BUOYANCY. * * * CHUTES or Sail Swallowers (as named in France). Like us
--WAY OUT IN FRONT. * * OUR MAIL ORDER is the best because we have the gear
-on the shelves.
-
-# WET SU ITS & BOOTS
-
-Double and Single Lined for summer and winter wear. All popular leading
-makers.
-
-## WE ARE ALWAYS PLEASED TO SEE
-
-## YOU AT THE
-
-# WELSH HARP
-
-# BOAT CENTRE
-
-## 270-272 THE BROADWAY, WEST HENDON,
-
-## LONDON, NW9
-
-## ENGLAND
-
-LSG Printers, Lincoln
