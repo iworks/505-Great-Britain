@@ -336,6 +336,45 @@ A point of debate was the possible deviation of the bow section from the class
 drawings. The part of the hull near the keel appeared to be too fine and
 unfortunately no off-sets were available to check stations 1 and 2.
 
+
+Mr. Lonnfers very kindly donated one of his hulls to be raffled among the
+first twenty helmsmen overall. It was won by Frenchman Bruno Levesque.
+
+A special mention should be given to the efficient results service. The
+organisers had laid on a computer link and duplicated results were ready as
+soon as competitors reached the shore. After any protests had been decided.
+the overall results were then computed and duplicated.
+
+A few competitors complained about the apres yachting at Hango. They were
+probably in the minority who had their priorities wrong. All those who came
+for the sailing agreed that the racing and its organisation were among the
+best that we have had for any championship. The racing area was perfect and
+the weather conditions as varied and fair as one could hope for.
+
+The UK finished with five boats in the top 20. We should have probably done
+better but it is a good thing to see so many countries represented at the
+front after our domination of the last three years.
+
+## Results
+
+| Place | Boat | Helm | Points |
+|------:|------|------|-------:|
+| 1 | F 4420 | Nicolas Laday | 58.0 |
+| 2 | F 4390 | Bruno Levesque | 59.0 |
+| 3 | L 4335 | Kari Wilen | 59.7 |
+| 4 | K 4382 | Derek Farrant | 64.0 |
+| 5 | K 4450 | John Loveday | 66.0 |
+| 6 | S 3991 | Ulf Andersson | 72.7 |
+
+7 S 3956 Bennett Thorner 8 S 4316
+
+70.4 
+
+
+Stefan Sjostrom 76.7 9 F 3596 Patrick Haegeli 77.4 90.0 10 K 4321 Robert
+Napier Other British placings: 15, K 4083 John Turgoose, 113.7; 16, K 4079
+Hugh Bourn, 116.0.
+
 ---
 
 # 1973 UK national championships
@@ -365,36 +404,14 @@ join the M6 North.
 Largs is a popular holiday resort and while there are ample hotels and guest
 houses, July is a busy month, so do book early. The area is a little short of
 formal caravan and camping facilities but there are plenty of open spaces! The
-club will issue a compre-
+club will issue a comprehensive accommodation list at the beginning of the
+year.
+
+Plans are being made for the week's social programme, which will most
+certainly be an outstanding success. In addition to evenings centred on Largs,
+it is hoped to charter a steamer for an evening cruise
 
 
-hensive accommodation list at the beginning of the year. Plans are being
-made for the week's social programme, which will most certainly be an
-outstanding success. In addition to evenings centred on Largs, it is hoped
-to charter a steamer for an evening cruise
-
-Swallow and Lawton at Brancaster.
-
-Mr. Lonnfers very kindly donated one of his hulls to be raffled among the
-first twenty helmsmen overall. It was won by Frenchman Bruno Levesque. A
-special mention should be given to the efficient results service. The
-organisers had laid on a computer link and duplicated results were ready
-as soon as competitors reached the shore. After any protests had been
-decided. the overall results were then computed and duplicated. A few
-competitors complained about the apres yachting at Hango. They were
-probably in the minority who had their priorities wrong. All those who
-came for the sailing agreed that the racing and its organisation were
-among the best that we have had for any championship. The racing area was
-perfect and the weather conditions as varied and fair as one could hope
-for. The UK finished with five boats in the top 20. We should have
-probably done better but it is a good thing to see so many countries
-represented at the front after our domination of the last three years.
-Points Results: 1 F 4420 Nicolas Laday 58.0 2 F 4390 Bruno Levesque 59.0 3
-L 4335 Kari Wilen 59.7 4 K 4382 Derek Farrant 64.0 K 4450 66.0 5 John
-Loveday 70.4 6 S 3991 Ulf Andersson 72.7 7 S 3956 Bennett Thorner 8 S 4316
-Stefan Sjostrom 76.7 9 F 3596 Patrick Haegeli 77.4 90.0 10 K 4321 Robert
-Napier Other British placings: 15, K 4083 John Turgoose, 113.7; 16, K 4079
-Hugh Bourn, 116.0.
 
 around Bute, a beautiful trip in a boat with a bar! To round off the week
 in a positive way it is planned that the prize giving will be in the form
